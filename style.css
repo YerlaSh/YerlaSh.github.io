@@ -14,7 +14,7 @@ body {
 }
 header {
     
-    background-color: #33886c;
+    background-color: #0fabf5;
     display: flex;
     padding: 25px 0; 
 }
@@ -145,19 +145,19 @@ main {
     width: 100%;
 }
 main .main_welcome{
-    background:#33886c;
+    background:#0fabf5;
     padding: 50px 0 50px 0;
     text-align: center;
 }
 main .main_welcome p{
-    color: white;
+    color: #dee435;
     font-size: 50px;
 
 }
 main .main_welcome h1{
-    color: #fcac45;
+    color: #fff;
     font-size: 130px; 
-    border-bottom: 3px solid #33886c;
+    border-bottom: 3px solid #0fabf5;
 }
 
 main .main_welcome h1::after{
@@ -199,7 +199,7 @@ main .main_about {
 
 
 .main_team{
-    background:  #33886c;
+    background:  #0fabf5;
     text-align: center;
     padding: 85px 0 165px 0;
     color: #fff;
@@ -314,7 +314,7 @@ h1:after{
     border-bottom: 3px solid #fcac45;
 }
 .wrapped {
-    background:  #33886c;
+    background:  #0fabf5;
     display: flex;
     align-items: stretch;
     width: 100%;
