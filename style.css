@@ -32,7 +32,7 @@ justify-content: space-between;
 }
 .header-container a {
     color: #fff;
-    font-size: 16px;
+    font-size: 13px;
     padding: 10px 15px;
     margin-right: 15px;
     font-weight:bold ;
@@ -121,7 +121,7 @@ main .main_welcome {
 }
 .about_right h1 {
     margin-top: 10px;
-    font-size: 25px;
+    font-size: 30px;
     text-align: center;
 }
 
@@ -151,12 +151,12 @@ main .main_welcome{
 }
 main .main_welcome p{
     color: #dee435;
-    font-size: 50px;
+    font-size: 25px;
 
 }
 main .main_welcome h1{
     color: #fff;
-    font-size: 130px; 
+    font-size: 80px; 
     border-bottom: 3px solid #0fabf5;
 }
 
@@ -202,11 +202,12 @@ main .main_about {
     background:  #0fabf5;
     text-align: center;
     padding: 85px 0 165px 0;
-    color: #fff;
+    color: #0fabf5;
 }
 .main_team h1{
-    font-size: 44px;
+    font-size: 30px;
     padding-bottom: 30px;
+    color: #fff;
 }
 .line {
     width: 120px;
@@ -258,7 +259,7 @@ main .main_about {
 }
 .wrap h1 {
   text-align: center;
-  font-size: 44px;
+  font-size: 30px;
   padding-bottom: 15px; 
   margin-top: 40px; 
 }
@@ -344,6 +345,7 @@ h1:after{
 .social img{
     margin-left: 12px;
     margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 
